@@ -34,7 +34,7 @@ void setup() {
   EEPROM.put(30, 50); //LED Brightness
 }
 
-// loop() runs over and over again, as quickly as it can execute.
+// loop() runs over and over again, as quickly as it can execut e.
 void loop() {
   // The core of your code will likely live here.
 
